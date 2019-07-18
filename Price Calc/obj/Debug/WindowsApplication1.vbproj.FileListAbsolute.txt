@@ -1,0 +1,68 @@
+C:\Users\329594\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\329594\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\329594\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\329594\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\329594\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\329594\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\329594\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\329594\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\329594\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\329594\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\colccifs02.cavc.internal\Studenthome$\Students\BCPS\BCPS-FT\329594\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\colccifs02.cavc.internal\Studenthome$\Students\BCPS\BCPS-FT\329594\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\colccifs02.cavc.internal\Studenthome$\Students\BCPS\BCPS-FT\329594\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\colccifs02.cavc.internal\Studenthome$\Students\BCPS\BCPS-FT\329594\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+\\colccifs02.cavc.internal\Studenthome$\Students\BCPS\BCPS-FT\329594\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+\\colccifs02.cavc.internal\Studenthome$\Students\BCPS\BCPS-FT\329594\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\colccifs02.cavc.internal\Studenthome$\Students\BCPS\BCPS-FT\329594\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\colccifs02.cavc.internal\Studenthome$\Students\BCPS\BCPS-FT\329594\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\colccifs02.cavc.internal\Studenthome$\Students\BCPS\BCPS-FT\329594\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\colccifs02.cavc.internal\Studenthome$\Students\BCPS\BCPS-FT\329594\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\colccifs02.cavc.internal\Studenthome$\Students\BCPS\BCPS-FT\329594\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Menu1.resources
+\\colccifs02.cavc.internal\Studenthome$\Students\BCPS\BCPS-FT\329594\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CostCalc.resources
+\\colccifs02.cavc.internal\Studenthome$\Students\BCPS\BCPS-FT\329594\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.NewCustomer.resources
+\\colccifs02.cavc.internal\Studenthome$\Students\BCPS\BCPS-FT\329594\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TaskList.resources
+N:\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+N:\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+N:\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+N:\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+N:\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+N:\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+N:\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+N:\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CostCalc.resources
+N:\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+N:\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Menu1.resources
+N:\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+N:\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.NewCustomer.resources
+N:\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TaskList.resources
+N:\Work - Year 2\Unit 14 - Event driven programming\Assignment 2\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Lee's stuff\Work - Year 2\Unit 14 - Event driven programming\Assignment 3\Application\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Lee's stuff\Work - Year 2\Unit 14 - Event driven programming\Assignment 3\Application\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Lee's stuff\Work - Year 2\Unit 14 - Event driven programming\Assignment 3\Application\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Lee's stuff\Work - Year 2\Unit 14 - Event driven programming\Assignment 3\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.CostCalc.resources
+E:\Lee's stuff\Work - Year 2\Unit 14 - Event driven programming\Assignment 3\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Help.resources
+E:\Lee's stuff\Work - Year 2\Unit 14 - Event driven programming\Assignment 3\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+E:\Lee's stuff\Work - Year 2\Unit 14 - Event driven programming\Assignment 3\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Menu1.resources
+E:\Lee's stuff\Work - Year 2\Unit 14 - Event driven programming\Assignment 3\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\Lee's stuff\Work - Year 2\Unit 14 - Event driven programming\Assignment 3\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.NewCustomer.resources
+E:\Lee's stuff\Work - Year 2\Unit 14 - Event driven programming\Assignment 3\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TaskList.resources
+E:\Lee's stuff\Work - Year 2\Unit 14 - Event driven programming\Assignment 3\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Lee's stuff\Work - Year 2\Unit 14 - Event driven programming\Assignment 3\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\Lee's stuff\Work - Year 2\Unit 14 - Event driven programming\Assignment 3\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Lee's stuff\Work - Year 2\Unit 14 - Event driven programming\Assignment 3\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Lee's stuff\Work - Year 2\Unit 14 - Event driven programming\Assignment 3\Application\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Lee\Desktop\Hacks\Vids\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Lee\Desktop\Hacks\Vids\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Lee\Desktop\Hacks\Vids\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Lee\Desktop\Hacks\Vids\WindowsApplication1\obj\Debug\WindowsApplication1.CostCalc.resources
+C:\Users\Lee\Desktop\Hacks\Vids\WindowsApplication1\obj\Debug\WindowsApplication1.Help.resources
+C:\Users\Lee\Desktop\Hacks\Vids\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Lee\Desktop\Hacks\Vids\WindowsApplication1\obj\Debug\WindowsApplication1.Menu1.resources
+C:\Users\Lee\Desktop\Hacks\Vids\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lee\Desktop\Hacks\Vids\WindowsApplication1\obj\Debug\WindowsApplication1.NewCustomer.resources
+C:\Users\Lee\Desktop\Hacks\Vids\WindowsApplication1\obj\Debug\WindowsApplication1.TaskList.resources
+C:\Users\Lee\Desktop\Hacks\Vids\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Lee\Desktop\Hacks\Vids\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Lee\Desktop\Hacks\Vids\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Lee\Desktop\Hacks\Vids\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Lee\Desktop\Hacks\Vids\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

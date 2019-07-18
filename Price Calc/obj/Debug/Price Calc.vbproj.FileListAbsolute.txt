@@ -1,0 +1,16 @@
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\bin\Debug\WindowsApplication1.exe
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\bin\Debug\WindowsApplication1.pdb
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\bin\Debug\WindowsApplication1.xml
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\obj\Debug\Price Calc.vbprojResolveAssemblyReference.cache
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\obj\Debug\WindowsApplication1.CostCalc.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\obj\Debug\WindowsApplication1.Help.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\obj\Debug\WindowsApplication1.Menu1.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\obj\Debug\WindowsApplication1.NewCustomer.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\obj\Debug\WindowsApplication1.TaskList.resources
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\obj\Debug\Price Calc.vbproj.GenerateResource.Cache
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\obj\Debug\Price Calc.vbproj.CoreCompileInputs.cache
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\obj\Debug\WindowsApplication1.exe
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\obj\Debug\WindowsApplication1.xml
+C:\Users\Lee\Desktop\Job applications\Coding Projects\Price Calc\Price Calc\obj\Debug\WindowsApplication1.pdb
