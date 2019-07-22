@@ -4,10 +4,10 @@
 
         'this line checks to see whether the first textbox contains the 
         'correct(Username)
-        If Username.Text = "dazza" Then
+        If Username.Text = "login" Then
             'this line checks to see whether the first textbox contains
             'the correct password
-            If Password.Text = "please" Then
+            If Password.Text = "password" Then
                 'this line brings up a message box to tell you you've 
                 'logged in successfully.
                 MsgBox("Successful login")
